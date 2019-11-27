@@ -1,2 +1,3 @@
 # Lotto-Dev
-Dev by nexthopteam
+Dev by Nexthopteam
+ 
